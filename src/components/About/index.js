@@ -10,4 +10,5 @@ const About = () => {
     )
 }
 
+// use default export
 export default About
